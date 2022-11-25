@@ -2,7 +2,7 @@
 
 <br>
 
-![thek0der's Github Stats](https://github-readme-stats.vercel.app/api?username=Sandwich5&show_icons=true&theme=algolia)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Sandwich5&show_icons=true&theme=dracula)
 
 <!--
 **Sandwich5/Sandwich5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
