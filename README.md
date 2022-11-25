@@ -2,7 +2,7 @@
 
 <br>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Sandwich5&show_icons=true&theme=dracula)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Sandwich5&show_icons=true&theme=darcula)
 
 <b>
 
