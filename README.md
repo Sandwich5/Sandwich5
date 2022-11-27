@@ -2,6 +2,10 @@
 
 <br>
 
+Software engineer with an interest in Information and Cyber Securty
+
+<br>
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Sandwich5&show_icons=true&theme=darcula)
 
 <b>
